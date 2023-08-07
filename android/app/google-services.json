@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493435276213",
+    "project_id": "video-call-test-b3cb5",
+    "storage_bucket": "video-call-test-b3cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493435276213:android:df7feea8ed4de5e27fe7fc",
+        "android_client_info": {
+          "package_name": "com.hello_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAabGULOPwVU9RTWF9gbELALUHHAKeZiFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
